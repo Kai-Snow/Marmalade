@@ -1,6 +1,6 @@
 #This is marmalade! A multipurpose discord bot used for moderating, logging, and satistical analysis!
 
-![](https://ibb.co/SvwcF0D)
+![ad](https://user-images.githubusercontent.com/132199341/235350727-7115caf7-ba2a-4658-848c-4d87d82d7635.png)
 
 Want a deep dive on this project? 
 
@@ -19,20 +19,21 @@ Here are some of the examples of the bot at work!
 
 --> User DM'ing and reminders ⏰
 
-![Reminders]https://ibb.co/kJwVPDs
+![ex1](https://user-images.githubusercontent.com/132199341/235350746-72426737-9a7a-46ef-bd18-86a8865ea96c.PNG)
+
 
 --> Local File downloading and Logging 🔽
 
-![Downloading and Logging]https://ibb.co/HHXXRcL
+![ex2](https://user-images.githubusercontent.com/132199341/235350762-89822f5f-a86f-42fd-9981-02d166590cac.PNG)
 
 --> Moderating and comment flagging.
 
-![Moderating]https://ibb.co/zNcjQCf
+![flag](https://user-images.githubusercontent.com/132199341/235350772-5f4fe2c1-3d6e-46c2-b95f-cdde387e7fd7.PNG)
 
 
 --> Many commands! 🧡
 
-![Commands]https://ibb.co/GQbJjk6
 
+![ex4](https://user-images.githubusercontent.com/132199341/235350775-8684d2cd-a168-4f76-9055-2025b9c6fb3b.PNG)
 
 
