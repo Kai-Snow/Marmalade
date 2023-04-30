@@ -1,4 +1,4 @@
-#This is marmalade! A multipurpose discord bot used for moderating, logging, and satistical analysis!
+# This is marmalade! A multipurpose discord bot used for moderating, logging, and satistical analysis!
 
 ![ad](https://user-images.githubusercontent.com/132199341/235350727-7115caf7-ba2a-4658-848c-4d87d82d7635.png)
 
@@ -35,5 +35,18 @@ Here are some of the examples of the bot at work!
 
 
 ![ex4](https://user-images.githubusercontent.com/132199341/235350775-8684d2cd-a168-4f76-9055-2025b9c6fb3b.PNG)
+
+NOTICE: .ENV IS MISSING. ADD YOUR OWN .ENV THIS IS MISSING FOR SECURITY REASONS. 
+
+.env structure
+
+--> PERSPECTIVE_API_KEY = xxxx
+--> DISCORD_TOKEN = xxxx
+--> KICK_THRESHOLD (not used) = xxxx
+--> GUILD_ID (not needed. but i put the main bots guild ID) = xxxx
+
+
+
+
 
 
